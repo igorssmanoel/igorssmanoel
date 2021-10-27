@@ -1,6 +1,6 @@
 <img width="100%" src="https://i.pinimg.com/originals/6a/09/53/6a0953889d91e50580b2a94eb37b8b63.gif"/>
 
-<h1 align="center">Hi 👋, I'm Igor</h1>
+<h1 align="center">Hi there, I'm Igor</h1>
 <h1 align="center">Welcome to my source code</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d0rm1nd0&label=Profile%20views&style=flat&theme=react" alt="d0rm1nd0" /> </p>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d0rm1nd0&theme=algolia&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="d0rm1nd0" /></a> </p>
 
-- 🔭 I’m currently working on [BancoBV](https://www.bv.com.br)
+- 🔭 I’m currently working on [ExxonMobil](https://corporate.exxonmobil.com)
 
 - 🌱 I’m currently learning **Architecting with Google Kubernetes Engine**
 
@@ -20,7 +20,6 @@
 - 📫 How to reach me **www.linkedin.com/in/igor-manoel**
 
 <p align="center">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d0rm1nd0&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10" alt="d0rm1nd0" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d0rm1nd0&show_icons=true&locale=en&theme=react&include_all_commits=true&count_private=true&line_height=29" alt="d0rm1nd0" />
