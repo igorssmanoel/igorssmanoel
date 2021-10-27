@@ -11,6 +11,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d0rm1nd0&theme=algolia&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="d0rm1nd0" /></a> </p>
 
+***
+
 - 🔭 I’m currently working on [ExxonMobil](https://corporate.exxonmobil.com)
 
 - 🌱 I’m currently learning **Architecting with Google Kubernetes Engine**
@@ -19,11 +21,15 @@
 
 - 📫 How to reach me **www.linkedin.com/in/igor-manoel**
 
+***
+
 <p align="center">
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d0rm1nd0&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10" alt="d0rm1nd0" />
 
   <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=d0rm1nd0&show_icons=true&locale=en&theme=react&include_all_commits=true&count_private=true&line_height=29" alt="d0rm1nd0" />
 </p>
+
+***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
