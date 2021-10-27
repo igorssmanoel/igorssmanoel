@@ -1,7 +1,7 @@
 <img width="100%" src="https://i.pinimg.com/originals/6a/09/53/6a0953889d91e50580b2a94eb37b8b63.gif"/>
 
 <h1 align="center">Hi there, I'm Igor</h1>
-<h1 align="center">Welcome to my source code</h1>
+<p align="center">Welcome to my source code</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d0rm1nd0&label=Profile%20views&style=flat&theme=react" alt="d0rm1nd0" /> </p>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
