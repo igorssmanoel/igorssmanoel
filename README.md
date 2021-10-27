@@ -19,11 +19,11 @@
 
 - 📫 How to reach me **www.linkedin.com/in/igor-manoel**
 
-<p align="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d0rm1nd0&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10" alt="d0rm1nd0" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d0rm1nd0&show_icons=true&locale=en&theme=react&include_all_commits=true&count_private=true&line_height=29" alt="d0rm1nd0" />
-</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
