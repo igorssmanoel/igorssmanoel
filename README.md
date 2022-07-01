@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi there, I'm Igor</h1>
 <p align="center">Welcome to my source code</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d0rm1nd0&label=Profile%20views&style=flat&theme=react" alt="d0rm1nd0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=igorssmanoel&label=Profile%20views&style=flat&theme=react" alt="igorssmanoel" /> </p>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d0rm1nd0&theme=react" alt="d0rm1nd0" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorssmanoel&theme=react" alt="igorssmanoel" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d0rm1nd0&theme=algolia&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="d0rm1nd0" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igorssmanoel&theme=algolia&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="igorssmanoel" /></a> </p>
 
 ***
 
@@ -24,9 +24,9 @@
 ***
 
 <p align="center">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d0rm1nd0&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10" alt="d0rm1nd0" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorssmanoel&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10" alt="igorssmanoel" />
 
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=d0rm1nd0&show_icons=true&locale=en&theme=react&include_all_commits=true&count_private=true&line_height=29" alt="d0rm1nd0" />
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=igorssmanoel&show_icons=true&locale=en&theme=react&include_all_commits=true&count_private=true&line_height=29" alt="igorssmanoel" />
 </p>
 
 ***
@@ -34,8 +34,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/igor-manoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-manoel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/d0rm1nd0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="d0rm1nd0" height="30" width="40" /></a>
-<a href="https://codepen.io/d0rm1nd0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="d0rm1nd0" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/igorssmanoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="igorssmanoel" height="30" width="40" /></a>
+<a href="https://codepen.io/igorssmanoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="igorssmanoel" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/issm13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="issm13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/igorssmanoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="igorssmanoel" height="30" width="40" /></a>
 </p>
