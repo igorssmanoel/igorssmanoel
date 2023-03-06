@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on [ExxonMobil](https://corporate.exxonmobil.com)
 
-- 🌱 I’m currently learning **Architecting with Google Kubernetes Engine**
+- 🌱 I’m currently learning **Kafka for microservices**
 
-- 💬 Ask me about **Vue, Angular, .Net, Laravel**
+- 💬 Ask me about **PHP, C#, JAVA, JAVASCRIPT**
 
-- 📫 How to reach me **www.linkedin.com/in/igor-manoel**
+- 📫 How to reach me **[www.linkedin.com/in/igor-manoel](https://www.linkedin.com/in/igorssmanoel/?locale=en_US)**
 
 ***
 
