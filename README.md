@@ -13,7 +13,7 @@
 
 ***
 
-- 🔭 I’m currently working on [The Home Depot]([https://www.homedepot.com/]))
+- 🔭 I’m currently working on [The Home Depot]([https://www.homedepot.com/])
 
 - 🌱 I’m currently learning **Kafka for microservices**
 
