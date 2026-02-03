@@ -1,186 +1,125 @@
-<img width="100%" src="https://i.pinimg.com/originals/6a/09/53/6a0953889d91e50580b2a94eb37b8b63.gif"/>
+# 👋 Hey there! I'm Igor!
 
-<h1 align="center">Hi there, I'm Igor</h1>
-<p align="center">Welcome to my source code</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=igorssmanoel&label=Profile%20views&style=flat&theme=react" alt="igorssmanoel" /> </p>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+<div align="center">
+  
+  ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+  
+  **Full Stack Developer collecting stacks since 2008** 🚀
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-here)
+  
+</div>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorssmanoel&theme=react" alt="igorssmanoel" />
-</p>
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igorssmanoel&theme=algolia&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="igorssmanoel" /></a> </p>
+## 🎯 Currently
 
-***
+💼 **Senior Full Stack Developer @ The Home Depot**  
+🌎 Remote from the US (but my heart is in Brazil ❤️)  
+🔧 Making magic with Java, Spring Boot, and React  
+🚀 Automating everything possible with GitHub Actions
 
-- 🔭 I’m currently working on [The Home Depot]([https://www.homedepot.com/])
+---
 
-- 🌱 I’m currently learning **Kafka for microservices**
+## 🧙‍♂️ My Superpower
 
-- 💬 Ask me about **PHP, C#, JAVA, JAVASCRIPT**
+I've worked solo, in pairs, in small teams, and in global teams. I've been "the only dev" on entire projects and collaborated with teams spread across the world. **Spoiler:** I learned that good code is code that works, but GREAT code is code the team understands! 
 
-- 📫 How to reach me **[www.linkedin.com/in/igor-manoel](https://www.linkedin.com/in/igorssmanoel/?locale=en_US)**
+---
 
-***
+## 🎮 Level Stats
 
-<p align="center">
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorssmanoel&show_icons=true&locale=en&layout=compact&theme=react&langs_count=10" alt="igorssmanoel" />
+```javascript
+const igor = {
+  code: ["Java", "C#", "PHP", "Python", "JavaScript", "TypeScript"],
+  frontend: ["React", "Angular", "Vue.js", "Ionic"],
+  backend: ["Spring Boot", ".NET Core", "Laravel", "Node.js"],
+  databases: ["MySQL", "SQL Server", "PostgreSQL", "Oracle", "Informix"],
+  cloud: ["AWS", "Azure", "GCP"],
+  tools: ["Docker", "Jenkins", "GitHub Actions", "Elasticsearch", "Kibana"],
+  specialMoves: ["CI/CD", "ETL", "API Rest/Soap", "Web Scraping", "Mobile Dev"],
+  softSkills: ["Teamwork", "Resilience", "Good eating pizza"]
+};
+```
 
-  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=igorssmanoel&show_icons=true&locale=en&theme=react&include_all_commits=true&count_private=true&line_height=29" alt="igorssmanoel" />
-</p>
+---
 
-***
+## 🏆 Epic Achievements
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/igor-manoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-manoel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/igorssmanoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="igorssmanoel" height="30" width="40" /></a>
-<a href="https://codepen.io/igorssmanoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="igorssmanoel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/issm13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="issm13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/igorssmanoel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="igorssmanoel" height="30" width="40" /></a>
-</p>
+### 🎖️ The Home Depot (2024 - Present)
+> *"Where DIY meets dev"*
+- Implementing CI/CD pipelines so smooth even my grandma could deploy
+- Writing tests that actually work (yes, this is an achievement!)
 
-***
+### 🛢️ Pantheon Inc | ExxonMobil (2021 - 2024)
+> *"Global team, global problems, local coffee"*
+- Kept a fuel sales system running across multiple time zones
+- Apache Ant... yes, I worked with Apache Ant and lived to tell the tale
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/cs/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
-    </a>
-    <a href="https://angular.io" target="_blank">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a>
-    <a href="https://developer.android.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://codeigniter.com" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
-            alt="django" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://cloud.google.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-            height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co/kibana" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40"
-            height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" />
-    </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank">
-        <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"
-            alt="xamarin" width="40" height="40" />
-    </a>
-</p>
+### 🏦 Banco BV (2021)
+> *"It was me vs. FinOps (spoiler: I won)"*
+- The ONLY developer on a 9-person team creating an internal portal
+- Tamed 3 clouds at once (AWS, Azure, and GCP)
+- Created ETL pipelines that are probably still running today
 
-<!--div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="igor-manoel" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/igor-manoel?trk=profile-badge">Igor Manoel</a></div>
+### 💡 Led Prime (2018 - 2019)
+> *"My solo dev era"*
+- Managed AWS servers by myself (and they didn't explode!)
+- Built an email server from SCRATCH
+- Migrated data from Mailchimp to Mailtrain using web scraping (Python FTW!)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script-->
+### 📱 Grupo Barigui (2019 - 2020)
+> *"My proudest project lives here"*
+- Created mobile app with OCR for text and image recognition
+- Migrated code from PHP to C# (and my sanity survived)
+- Implemented Elasticsearch (because fast data search is life)
+
+---
+
+## 🎨 Special Skills
+
+- 🔥 **Stack Hoarding**: I collect technologies like Pokémon cards
+- 🌐 **Language Polyglot**: I speak Java, C#, PHP, Python... and also Portuguese and English!
+- 🏗️ **Professional Workaround Architect**: I turn impossible requirements into elegant solutions
+- ☁️ **Cloud Whisperer**: I make AWS, Azure, and GCP work together in harmony
+- 🐛 **Bug Hunter**: If there's a bug, I find it. If I find it, I kill it.
+
+---
+
+## 🎯 Fun Facts
+
+- 🤓 Started as a Junior Java Developer in 2017
+- 🚀 I've worked with technologies from Apache Ant to React (evolution is real!)
+- 🌍 I've collaborated with teams in Brazil, the US, and around the world
+- 📱 I've built mobile apps with Xamarin, Ionic, and even OCR
+- 🐍 Python is my Swiss Army knife for web scraping
+- ☕ My code works better after the third coffee
+
+---
+
+## 💬 Let's Talk?
+
+I love exchanging ideas about:
+- ☕ How to make the perfect coffee while code compiles
+- 🚀 Software architecture that doesn't become legacy in 6 months
+- 🤖 Automating EVERYTHING (seriously, I even automate my grocery list)
+- 🌐 How to work remotely without losing your sanity
+- 🎮 Games, technology, and how to create amazing things
+
+---
+
+<div align="center">
+  
+  ### 🌟 "Clean code isn't code that works, it's code you understand at 3 AM" 🌟
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=igorssmanoel&label=Profile%20views&style=flat&theme=react" alt="igorssmanoel" /> </p>
+  
+  **If you read this far, send me a job offer on [Linkedin](https://www.linkedin.com/in/igorssmanoel/)! 🤝**
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
